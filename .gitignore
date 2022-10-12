@@ -1,0 +1,4 @@
+*.log
+tmp
+desc_ldjsub.egg-info
+build
